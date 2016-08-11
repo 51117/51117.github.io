@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://51117.github.io
 title: 51117
-tagline: 51117
-description: 51117
+tagline: 
+description: 
 paginate: 5
